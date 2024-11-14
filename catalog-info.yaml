@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: camera-utils
+  namespace: default
+  description: Andriod apk 
+  annotations:
+    jira.com/project-key: WAF
