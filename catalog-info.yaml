@@ -6,3 +6,8 @@ metadata:
   description: Andriod apk 
   annotations:
     jira.com/project-key: WAF
+
+spec:
+  type: service
+  lifecycle: production
+  owner: Guest
